@@ -1,0 +1,6 @@
+{
+  "name": "Nexkart",
+  "description": "Niche, modern C2C Classifieds Marketplace for Fashion, Tech, Footwear, & Aesthetics with Reels, In-App Chat, and AI helpers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
